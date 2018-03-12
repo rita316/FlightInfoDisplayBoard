@@ -1,6 +1,6 @@
-# IS 452 Final Project
+
 # A Flight Information Board for Travelers
-# Te Lin, telin2, 4CR
+# bt Te Lin
 
 
 
@@ -19,8 +19,8 @@ from PyQt5.QtCore import pyqtSlot
 #  API provided by Flight Aware (https://flightaware.com/commercial/flightxml/)
 #  retrieveFlightData function sends my authentication info to FlightAware, and return 15 departure flights.
 def retrieveFlightData(airportcode):
-    username = "ritalin316"
-    apiKey = "f1cb7dfee81dbdfeb18a6919dcd369b6a5bfdc40"
+    username = " "  # my username is taken out 
+    apiKey = " "  # my apiKey is taken out 
     fxmlUrl = "https://flightxml.flightaware.com/json/FlightXML3/"
 
     # This section is built with references from flightaware website.
