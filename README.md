@@ -1,1 +1,1 @@
-# is_452_final_project
+# A flight information board meant to provide flights and destination weathers for travelors in a particular airport. 
